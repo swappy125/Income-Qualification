@@ -1,0 +1,36 @@
+2023-02-16/19:01:59		Start of Training
+2023-02-16/19:01:59		Entered the load_data method in Preprocessor class.
+2023-02-16/19:01:59		Entered the check_categorical_variables method in Preprocessor class.
+2023-02-16/19:01:59		Entered the convert_columns_to_float method in Preprocessor class.
+2023-02-16/19:01:59		Entered the rename_columns method in Preprocessor class.
+2023-02-16/19:01:59		Entered the remove_columns method in Preprocessor class.
+2023-02-16/19:01:59		Entered the combine_int_float method in Preprocessor class.
+2023-02-16/19:01:59		Entered the feature_imputation method in Preprocessor class.
+2023-02-16/19:01:59		Entered the feature_imputation_verification method in Preprocessor class.
+2023-02-16/19:01:59		Entered the replace_null_with_mean method in Preprocessor class.
+2023-02-16/19:02:00		Entered the check_null_values method in Preprocessor class.
+2023-02-16/19:02:00		Entered the check_same_poverty_level method in Preprocessor class.
+2023-02-16/19:02:00		Entered the find_family_head method in Preprocessor class.
+2023-02-16/19:02:00		Entered the check_families_without_head method in Preprocessor class.
+2023-02-16/19:02:00		Entered the check_families_without_head_same method in Preprocessor class.
+2023-02-16/19:02:00		Entered the set_same_poverty_level method in Preprocessor class.
+2023-02-16/19:02:00		Entered the check_same_poverty_level method in Preprocessor class.
+2023-02-16/19:02:00		Entered the check_null_values_in_target method in Preprocessor class.
+2023-02-16/19:02:00		Entered the select_top_30_features_with_highest_variance method in Preprocessor class.
+2023-02-16/19:02:00		Entered the handle_outliers_using_winsorization method in Preprocessor class.
+2023-02-16/19:02:01		Entered the check_feature_imbalance method in Preprocessor class.
+2023-02-16/19:02:01		Entered the handle_feature_imbalance method in Preprocessor class.
+2023-02-16/19:02:01		Entered the plot_class_distribution method in Preprocessor class.
+2023-02-16/19:02:03		Entered the get_top_correlated_features method in Preprocessor class.
+2023-02-16/19:02:03		Entered the get_relevant_features method in Preprocessor class.
+2023-02-16/19:02:04		Entered the fit_and_evaluate_models method in Preprocessor class.
+2023-02-16/19:02:05		Entered the train_random_forest_classifier method in Preprocessor class.
+2023-02-16/19:02:06		Entered the get_top_features_with_highest_variance method in Preprocessor class.
+2023-02-16/19:02:06		Entered the check_missing_features method in Preprocessor class.
+2023-02-16/19:02:10		Entered the find_top_thresholds method in Preprocessor class.
+2023-02-16/19:02:25		Entered the find_thresholds_accuracy method in Preprocessor class.
+2023-02-16/19:03:47		Entered the cross_validation method in Preprocessor class.
+2023-02-16/19:03:53		Entered the generate_report method in Preprocessor class.
+2023-02-16/19:04:08		Entered the save_model of File_Operation class.
+2023-02-16/19:04:08		Model File RandomForest saved. Exited the save_model method of the File_Operation class
+2023-02-16/19:04:08		Successful end of training
